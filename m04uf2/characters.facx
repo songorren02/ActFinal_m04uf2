@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<characters>
+<character id="1">
+<name>El Fary</name>
+<age>86</age>
+<gender value="N"/>
+<level value="200"/>
+</character>
+<character id="2">
+<name>El Cigala</name>
+<age>540</age>
+<gender value="M"/>
+<level value="200"/>
+</character>
+<character id="3">
+<name>El Churumbel</name>
+<age>33</age>
+<gender value="M"/>
+<level value="33"/>
+</character>
+<character id="4">
+<name>El Kiko</name>
+<age>-1</age>
+<gender value="F"/>
+<level value="89"/>
+</character>
+
+</characters>

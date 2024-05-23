@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<characters_weapons>
+	<character_weapon id="1">
+		<character id="1"/>
+		<weapon id="1"/>
+	</character_weapon>
+
+	<character_weapon id="2">
+		<character id="2"/>
+		<weapon id="1"/>
+	</character_weapon>
+
+	<character_weapon id="3">
+		<character id="1"/>
+		<weapon id="3"/>
+	</character_weapon>
+
+	<character_weapon id="4">
+		<character id="4"/>
+		<weapon id="2"/>
+	</character_weapon>
+
+	<character_weapon id="5">
+		<character id="2"/>
+		<weapon id="3"/>
+	</character_weapon>
+
+	<character_weapon id="6">
+		<character id="3"/>
+		<weapon id="3"/>
+	</character_weapon>
+</characters_weapons>
